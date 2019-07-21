@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1561227602 source:c:\users\owner\c++ stuff\driverratingstracker\main.cpp
+	<cstdlib>
+	<fstream>
+	<numeric>
+	<cmath>
+	<iostream>
+	<queue>
+	<string>
+
